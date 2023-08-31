@@ -7,3 +7,12 @@
 
 Step2 Add an image:
 ![Image of Pikachu](https://www.pngall.com/wp-content/uploads/5/Pikachu-PNG-Image-File.png)
+
+Step3 Add a code example:
+```java
+Class HelloWorld {
+  public static void main(String[] args) {
+    System.out.println("Hello World!");
+  }
+}
+```
